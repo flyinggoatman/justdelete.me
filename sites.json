@@ -4544,5 +4544,16 @@
             "my.zurker.com",
             "zurker.com"
         ]
+    },
+
+    {
+        "name": "IMVU",
+        "url": "http://www.imvu.com/catalog/web_delete_account.php",
+        "difficulty": "easy",
+        "notes": "You have a period of time to undo the deletion.",
+        "domains": [
+            "imvu.com",
+            "m.imvu.com"
+        ]
     }
 ]
